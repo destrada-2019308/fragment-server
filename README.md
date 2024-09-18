@@ -21,3 +21,6 @@
     - Run "docker build -t fragment-server:v1 ."
   - run image
     - Run "docker run -d --name fragment-server -p 3000:3000 fragment-server:v1"
+   
+
+    Where are files Frag and JSON?
